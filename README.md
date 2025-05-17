@@ -2,10 +2,10 @@
 This is the place where I opensource stuff and break things :rofl:
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
-- 🌱 &nbsp;I’m currently learning NLP, React
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🌱 &nbsp;I’m currently learning NLP, Machine Learning
+- 🥅 2025 Goals: Contribute more to Open Source projects
 - 💬 &nbsp;Ask me about anything related to Java/Kotlin/Python or React/SpringBoot/Microservice/Android
-- 👨‍💻 &nbsp;Read more about my projects at [avanish.info](http://www.avanish.info)
+- 👨‍💻 &nbsp;Read more about my projects at [avanish.dev](http://www.avanish.dev)
 
 <!-- BLOG-POST-LIST:START
 📕 &nbsp;**Latest Blog Posts**
