@@ -5,7 +5,7 @@ This is the place where I opensource stuff and break things :rofl:
 - 🌱 &nbsp;I’m currently learning NLP, Machine Learning
 - 🥅 2025 Goals: Contribute more to Open Source projects
 - 💬 &nbsp;Ask me about anything related to Java/Kotlin/Python or React/SpringBoot/Microservice/Android
-- 👨‍💻 &nbsp;Read more about my projects at [avanish.dev](http://www.avanish.dev)
+- 👨‍💻 &nbsp;Read more about my projects at [avanish.dev](http://www.avanish.dev) (https://643fe87430c2bc0007838153--resilient-dango-80ef64.netlify.app)
 
 <!-- BLOG-POST-LIST:START
 📕 &nbsp;**Latest Blog Posts**
